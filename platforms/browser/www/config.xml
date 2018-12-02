@@ -14,7 +14,7 @@
         Africoders Team
     </author>
     <content src="index.html" />
-    <access origin="https://africoders.test" subdomains="true" />
+    <access origin="https://africoders.test*" subdomains="true" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
